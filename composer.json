@@ -1,0 +1,17 @@
+{
+    "name": "ccontrerasl/woocommerce-speedyman",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cristian Contreras",
+            "email": "ccontrerasl@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0@dev",
+        "firebase/php-jwt": "dev-master",
+        "mesavolt/mdi-php": "dev-master"
+    }
+}
